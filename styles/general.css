@@ -1,0 +1,14 @@
+p {
+   font-family: Roboto, Arial;
+   margin-top: 0;
+   margin-bottom: 0;
+}
+
+body {
+   /*The style written below will be inherited as body is the outer div of all div*/
+   margin: 0;
+   padding-top: 100px;
+   padding-left: 95px;
+   background-color: rgb(250, 250, 250);
+   margin-top: -20px;
+}
